@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-It's a holiday in Scotland.
+High-flying city type from Scotland.
 
 
 
